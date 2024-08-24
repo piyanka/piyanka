@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I'm Priyanka
 
-<!--
-**piyanka/piyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year student at Delhi Technological University (DTU), with a passion for technology and a goal to become a Software Development Engineer. I have experience with MERN stack development and have worked on various projects involving web development, machine learning, and artificial intelligence.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning and improving my skills in Next.js, Express.js, MongoDB.
+- 🔭 I’m working on spotify Clone Project.
+- 🤝 I’m looking to collaborate on projects that involve AI, ML, web development.
+- 📫 How to reach me: https://www.linkedin.com/in/priyanka-yadav-3ab194243/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Languages**: JavaScript, Python, C++.
+- **Frontend**: React.js, HTML5, CSS3, Javascript.
+- **Backend**: Node.js, Express.js.
+- **Database**: MongoDB, [others]
+- **Tools**: Git, Docker, Excel.
+- **Others**: Machine Learning, AI, DSA, System Design.
+
+
