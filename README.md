@@ -7,13 +7,6 @@ I am a final-year student at Delhi Technological University (DTU), with a passio
 - 🤝 I’m looking to collaborate on projects that involve AI, ML, web development.
 - 📫 How to reach me: https://www.linkedin.com/in/priyanka-yadav-3ab194243/
 
-### 🛠 Tech Stack
 
-- **Languages**: JavaScript, Python, C++.
-- **Frontend**: React.js, HTML5, CSS3, Javascript.
-- **Backend**: Node.js, Express.js.
-- **Database**: MongoDB, [others]
-- **Tools**: Git, Docker, Excel.
-- **Others**: Machine Learning, AI, DSA, System Design.
 
 
