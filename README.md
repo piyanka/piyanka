@@ -1,9 +1,11 @@
 ## Hi there 👋, I'm Priyanka
 
-I’m a final-year student at **Delhi Technological University (DTU)** with a strong passion for technology and a goal to become a **Software Development Engineer**. I have hands-on experience in the **MERN stack** and have built several projects in **web development**, **machine learning**, and **artificial intelligence**.
+I recently graduated from **Delhi Technological University (DTU)** with a strong passion for technology and a goal to become a **Software Development Engineer**. I have hands-on experience in the **MERN stack** and have built several projects in **web development**, **machine learning**.
 
-* 🌱 Currently learning and improving my skills in **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
-* 🔭 Working on a **freelance project**.
-* 💻 Actively contributing to **Hacktoberfest 2025** and serving as a **Tech Contributor at GSSoC'25**.
-* 🤝 Looking to collaborate on exciting **web development** and **MERN stack** projects.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyanka-yadav-3ab194243/)
+* 🌱 Currently improving my skills in **React.js**, **Node.js**, **Express.js**, and **MongoDB**
+* 🔭 Currently leading **[DSAInterviewCoach](https://github.com/piyanka/DSAInterviewCoach)** at **Nexus Spring of Code**
+* 💻 Contributed as a **Tech Contributor** in **Hacktoberfest 2025**, **Code Social**, and **GirlScript Summer of Code**
+* 🤝 Open to collaborating on **web development** and **MERN stack** projects
+* 🎯 Actively seeking opportunities aligned with my skills
+* 📫 Reach out to me: [LinkedIn](https://www.linkedin.com/in/piyanka05/)
+
